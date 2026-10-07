@@ -15,7 +15,7 @@
 			"res/Style.style",
 			"res/Roboto-Regular.ttf",
 			"res/get_ffmpeg/*",
-			"res/default_windows.json",
+			"res/default_android.json",
 			"res/shadow.png"
 		]
 	},
